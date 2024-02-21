@@ -1,0 +1,10 @@
+D:\VisualStudio\Projects\PianoTiles\PianoTiles\bin\Debug\PianoTiles.exe.config
+D:\VisualStudio\Projects\PianoTiles\PianoTiles\bin\Debug\PianoTiles.exe
+D:\VisualStudio\Projects\PianoTiles\PianoTiles\bin\Debug\PianoTiles.pdb
+D:\VisualStudio\Projects\PianoTiles\PianoTiles\obj\Debug\PianoTiles.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\PianoTiles\PianoTiles\obj\Debug\PianoTiles.Form1.resources
+D:\VisualStudio\Projects\PianoTiles\PianoTiles\obj\Debug\PianoTiles.Properties.Resources.resources
+D:\VisualStudio\Projects\PianoTiles\PianoTiles\obj\Debug\PianoTiles.csproj.GenerateResource.cache
+D:\VisualStudio\Projects\PianoTiles\PianoTiles\obj\Debug\PianoTiles.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\PianoTiles\PianoTiles\obj\Debug\PianoTiles.exe
+D:\VisualStudio\Projects\PianoTiles\PianoTiles\obj\Debug\PianoTiles.pdb
