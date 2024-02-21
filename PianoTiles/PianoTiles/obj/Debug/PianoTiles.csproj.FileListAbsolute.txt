@@ -8,3 +8,13 @@ D:\VisualStudio\Projects\PianoTiles\PianoTiles\obj\Debug\PianoTiles.csproj.Gener
 D:\VisualStudio\Projects\PianoTiles\PianoTiles\obj\Debug\PianoTiles.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Projects\PianoTiles\PianoTiles\obj\Debug\PianoTiles.exe
 D:\VisualStudio\Projects\PianoTiles\PianoTiles\obj\Debug\PianoTiles.pdb
+D:\Unity\PianoTiles\PianoTiles\PianoTiles\bin\Debug\PianoTiles.exe.config
+D:\Unity\PianoTiles\PianoTiles\PianoTiles\bin\Debug\PianoTiles.exe
+D:\Unity\PianoTiles\PianoTiles\PianoTiles\bin\Debug\PianoTiles.pdb
+D:\Unity\PianoTiles\PianoTiles\PianoTiles\obj\Debug\PianoTiles.csproj.AssemblyReference.cache
+D:\Unity\PianoTiles\PianoTiles\PianoTiles\obj\Debug\PianoTiles.Form1.resources
+D:\Unity\PianoTiles\PianoTiles\PianoTiles\obj\Debug\PianoTiles.Properties.Resources.resources
+D:\Unity\PianoTiles\PianoTiles\PianoTiles\obj\Debug\PianoTiles.csproj.GenerateResource.cache
+D:\Unity\PianoTiles\PianoTiles\PianoTiles\obj\Debug\PianoTiles.csproj.CoreCompileInputs.cache
+D:\Unity\PianoTiles\PianoTiles\PianoTiles\obj\Debug\PianoTiles.exe
+D:\Unity\PianoTiles\PianoTiles\PianoTiles\obj\Debug\PianoTiles.pdb

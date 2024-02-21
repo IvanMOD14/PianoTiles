@@ -81,16 +81,16 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\d6.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\e6.wav" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\f6.wav" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\g6.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d6.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e6.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
